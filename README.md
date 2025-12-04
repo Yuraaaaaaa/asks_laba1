@@ -1,2 +1,8 @@
-# asks_laba1
+# asks\_laba1
+
 Lab1
+
+
+
+Newwww
+
